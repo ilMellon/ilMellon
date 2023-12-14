@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikoló Meloni, I'm an italian guy :D  (@ilMellon)
 - 👀 I’m interested in video games and learning how to code.
-- 🌱 I’m currently learning C, C++ rn are my priorities
-- 💞️ I’m looking to collaborate on everything, litteraly everything, if i can learn from ppl who know more than me, I'm in 100%
+- 🌱 I’m currently learning C, C++ rn.
+- 💞️ I’m looking to collaborate on everything, litteraly everything, if i can learn from ppl who know more than me, I'm in 100%.
 - 📫 How to reach me, here on github, on discord (watermellon_)
 - 🥨 Some things about me: I'm a Fluffy guy, and I go to the  gym 3 times a week, I like drawing and dogs, but I don't have a dog unluckly :(
 - 🥞 As a fluffy guy I can cook, and I think I'm not bad at it :D, my favourite dish is "lasagna" or "pasticcio" if you know what I mean.
